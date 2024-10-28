@@ -61,7 +61,7 @@ Edit file docker-compose.yml untuk mendefinisikan layanan-layanan Docker:
 ![image](https://github.com/user-attachments/assets/1c6ffd17-ebb9-4e5b-aad6-7350bd6485f1)
 
 
--<h3> File .env (Opsional) </>
+- <h3> File .env (Opsional) </h3>
 dengan masuk nano .env
 Untuk menjaga keamanan data, kita dapat menyimpan variabel environment di file .env. Contohnya:
 ![image](https://github.com/user-attachments/assets/aeea9e45-175f-4a98-b3be-82a55409e4a2)
